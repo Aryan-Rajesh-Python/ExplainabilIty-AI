@@ -44,3 +44,10 @@ This project combines model-process-level explainability for text, images, audio
 ```bash
 git clone https://github.com/Aryan-Rajesh-Python/ExplainabilIty-AI.git
 cd ExplainabilIty-AI
+```
+
+python -m venv .venv
+# Windows
+.venv\Scripts\activate
+# macOS / Linux
+source .venv/bin/activate
