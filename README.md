@@ -45,7 +45,7 @@ This project combines model-process-level explainability for text, images, audio
 git clone https://github.com/Aryan-Rajesh-Python/ExplainabilIty-AI.git
 cd ExplainabilIty-AI
 ```
-## Activating virtual environment
+## Activating Virtual Environment
 
 ```bash
 python -m venv .venv
@@ -56,7 +56,7 @@ python -m venv .venv
 # macOS / Linux
 source .venv/bin/activate
 ```
-## Installing the requirements
+## Installing Requirements
 
 ```bash
 pip install -r requirements.txt
@@ -70,7 +70,7 @@ $env:GEMINI_API_KEY="your_api_key"
 # macOS / Linux
 export GEMINI_API_KEY="your_api_key"
 ```
-## How to run
+## How To Run
 
 ```bash
 streamlit run app.py
