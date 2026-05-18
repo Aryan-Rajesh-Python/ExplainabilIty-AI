@@ -52,3 +52,17 @@ python -m venv .venv
 .venv\Scripts\activate
 # macOS / Linux
 source .venv/bin/activate
+```
+
+```bash
+pip install -r requirements.txt
+
+# Windows PowerShell
+$env:GEMINI_API_KEY="your_api_key"
+
+# macOS / Linux
+export GEMINI_API_KEY="your_api_key"
+```
+
+```bash
+streamlit run app.py
