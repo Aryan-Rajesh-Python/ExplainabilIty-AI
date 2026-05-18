@@ -51,14 +51,6 @@ from torchvision import models, transforms
 from torchvision.models import ResNet50_Weights
 
 # ============================================================
-# IMPORTS
-# ============================================================
-
-from torchvision.models import (
-    ResNet50_Weights
-)
-
-# ============================================================
 # AUDIO
 # ============================================================
 
