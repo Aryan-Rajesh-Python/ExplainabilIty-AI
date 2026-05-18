@@ -25,7 +25,6 @@ shap
 lime
 captum
 diffusers[torch]
-layoutlmv3
 opencv-contrib-python
 matplotlib
 seaborn
